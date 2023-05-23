@@ -1,5 +1,3 @@
-# Pepemusk Token
-
 ```shell
 npx hardhat help
 npx hardhat test
