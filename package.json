@@ -1,8 +1,8 @@
 {
   "name": "contracts",
   "version": "1.0.0",
-  "description": "Pepemusk",
-  "author": "pepemusk <support@pepemusk.vip>",
+  "description": "Token",
+  "author": "Token",
   "license": "MIT",
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
